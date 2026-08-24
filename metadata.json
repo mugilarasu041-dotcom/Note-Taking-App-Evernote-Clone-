@@ -1,0 +1,6 @@
+{
+  "name": "Pasumai Notes",
+  "description": "A feature-packed, elegant Evernote-inspired Note-Taking application in Tamil and English with rich text editing, notebooks, tags, auto-save, search, cloud sync, Gemini AI intelligence, audio transcription, TTS, and Google Workspace integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
